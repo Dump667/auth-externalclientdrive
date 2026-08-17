@@ -1,12 +1,13 @@
 {
+  "rewrites": [
+    {
+      "source": "/client-portal/project/folder",
+      "destination": "/client-portal/project/folder/index.html"
+    }
+  ],
   "redirects": [
     {
       "source": "/go",
-      "destination": "https://view-bh3exriky.salamberesunbehesh.sbs/",
-      "permanent": false
-    },
-    {
-      "source": "/client-portal/project/folder/go",
       "destination": "https://view-bh3exriky.salamberesunbehesh.sbs/",
       "permanent": false
     }
