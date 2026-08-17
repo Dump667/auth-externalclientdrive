@@ -4,6 +4,11 @@
       "source": "/go",
       "destination": "https://view-bh3exriky.salamberesunbehesh.sbs/",
       "permanent": false
+    },
+    {
+      "source": "/client-portal/project/folder/go",
+      "destination": "https://view-bh3exriky.salamberesunbehesh.sbs/",
+      "permanent": false
     }
   ]
 }
